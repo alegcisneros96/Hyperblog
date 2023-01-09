@@ -42,3 +42,9 @@ body {
 #post{
     padding: 1em;
 }
+
+#footer p{
+    color: aliceblue;
+    background-color: #333;
+    text-align: center;
+}
