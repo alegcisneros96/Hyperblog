@@ -43,6 +43,10 @@ body {
     padding: 1em;
 }
 
+#space-ship{
+    height: 500px;
+    width: 800px;
+}
 #footer p{
     color: aliceblue;
     background-color: #333;
